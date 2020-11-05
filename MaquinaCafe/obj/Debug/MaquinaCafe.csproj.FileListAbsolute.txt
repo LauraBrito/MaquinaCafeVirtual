@@ -1,0 +1,10 @@
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\bin\Debug\MaquinaCafe.exe.config
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\bin\Debug\MaquinaCafe.exe
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\bin\Debug\MaquinaCafe.pdb
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.frmPrincipal.resources
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.Properties.Resources.resources
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.GenerateResource.cache
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.CoreCompileInputs.cache
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.exe
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.pdb
+D:\Laurinha\Documents\Recrutamento\MaquinaCafe\MaquinaCafe\obj\Debug\MaquinaCafe.csprojAssemblyReference.cache
